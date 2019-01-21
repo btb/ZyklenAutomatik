@@ -513,7 +513,7 @@ void loop() {
   4 Optionen
   0 Thread
   1 grinding
-  2 Rotate
+  2 Turn
   3 Move
   4 Options
 */
